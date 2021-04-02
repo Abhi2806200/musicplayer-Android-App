@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--primary brand color-->
+    <color name="colorPrimary">#FF362E</color>
+    <color name="colorPrimaryVariant">#FF362E</color>
+    <color name="colorOnPrimary">#FF362E</color>
+    <!-- Secondary brand color. -->
+    <color name="colorSecondary">#FF362E</color>
+    <color name="colorSecondaryVariant">#FF362E</color>
+    <color name="colorOnSecondary">#FF362E</color>
+</resources>
